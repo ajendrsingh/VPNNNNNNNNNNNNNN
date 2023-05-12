@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "292239367796",
+    "project_id": "suiivpnpro",
+    "storage_bucket": "suiivpnpro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292239367796:android:86c76e89ef4071b12e7b21",
+        "android_client_info": {
+          "package_name": "com.suiivpn.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292239367796-k2svq5b6nhci6rd06nb2gnobrhr54hqg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCDcX_kRpY5x9oM23_w1Lfjk5goRVQ3NI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292239367796-k2svq5b6nhci6rd06nb2gnobrhr54hqg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
